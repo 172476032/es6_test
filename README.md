@@ -1,3 +1,6 @@
+本代码可以对es6的语法进行测试，主要在server.js内写，然后 利用vscode进行调试
+
+引用源内容：
 # vscode-debug-nodejs-es6
 How to debug ES6 NodeJS with VSCode
 
