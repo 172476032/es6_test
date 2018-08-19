@@ -1,0 +1,5 @@
+{
+    "typescript.useCodeSnippetsOnMethodSuggest": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+}
